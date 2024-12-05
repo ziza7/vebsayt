@@ -1,0 +1,13 @@
+<html>
+<img src="rasm.png" 
+width=1000 height=200>
+<body bgcolor="#26A69A">
+<font color=blue>
+<p style="font-family:
+Men yoqtirgan fanlar
+</font>
+<a href="sahifa1.html">algebra</a>
+<a href="sahifa2.html">ona tili</a>
+<a href="sahifa3.html">informatika</a>
+</body>
+</html>
